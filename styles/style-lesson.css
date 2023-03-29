@@ -1,0 +1,59 @@
+/* Estrutura básica de umar arquivo CSS */
+/* OBS: Nome do arquivo: estilo.css */
+
+header {
+    background: green;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999px;
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    color: white;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 48px;
+    background-color: rgb(13, 167, 116);
+    color: white;
+    text-align: center;
+}
+
+/* Content from primary page */
+.container {
+    position: static;
+}
+
+.primary {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.primary h1 {
+    color:black;        /* define a cor da fonte do título */
+    text-align: center; /* alinha o texto do título para o centro */
+}
+
+.primary p {
+    font-family: verdana;      /* tipo da fonte*/
+    font-size: 20px;           /* tamanho da fonte em pixel */
+    color: black;              /* cor da fonte */
+    text-align: justify;       /* alinhar o texto para justificado */
+}
+
+/* Content of the activity div */
+.activity-num01 {
+    display: flex;
+    flex-direction: row;
+}
+
+#img-activity {
+    margin: 24px auto 24px auto;   
+}
