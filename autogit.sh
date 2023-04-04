@@ -1,4 +1,4 @@
 git add -A
-git commit -m "fix -> last deploy | add -> README.md"
+git commit -m "fix -> profile.html"
 git push -u origin main
 git status
