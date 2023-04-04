@@ -48,7 +48,7 @@ footer {
     text-align: justify;       /* alinhar o texto para justificado */
 }
 
-/* Content of the activity div */
+/* Conteudo da div principal */
 .activity-num01 {
     display: flex;
     flex-direction: row;

@@ -124,7 +124,7 @@
   "workbench.editor.untitled.hint": "hidden",
   "workbench.colorTheme": "Mint Dark Theme",
   "redhat.telemetry.enabled": true,
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "off",
   "liveServer.settings.donotShowInfoMsg": true,
   "window.menuBarVisibility": "compact"
 }
