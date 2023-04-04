@@ -1,6 +1,4 @@
 git add -A
-git commit -m "tarefa 01 -> feita"
-git add -A
-git commit -m "fix -> index.html images | remove -> frontend folder"
+git commit -m "fix -> last deploy | add -> README.md"
 git push -u origin main
 git status
