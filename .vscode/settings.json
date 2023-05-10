@@ -89,7 +89,7 @@
   "editor.accessibilitySupport": "off",
   "explorer.confirmDragAndDrop": false,
   "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.fontFamily": "Fira Code",
   "editor.codeActionsOnSave": {
       "source.fixAll.eslint": true,
       // "source.organizeImports": true
@@ -97,7 +97,7 @@
   "editor.semanticHighlighting.enabled": false,
   "breadcrumbs.enabled": true,
   "workbench.productIconTheme": "fluent-icons",
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "Fira Code",
   "gitlens.codeLens.authors.enabled": false,
   "editor.tabSize": 4,
   "security.workspace.trust.untrustedFiles": "newWindow",
@@ -122,7 +122,7 @@
       "editor.defaultFormatter": "vscode.json-language-features"
   },
   "workbench.editor.untitled.hint": "hidden",
-  "workbench.colorTheme": "Mint Dark Theme",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
   "redhat.telemetry.enabled": true,
   "files.autoSave": "off",
   "liveServer.settings.donotShowInfoMsg": true,
